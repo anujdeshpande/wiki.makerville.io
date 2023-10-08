@@ -1,4 +1,6 @@
-# Books
+---
+title: Book List
+---
 
 |Title|Recommended By|Notes|
 |:--:|:--:|:--:|
