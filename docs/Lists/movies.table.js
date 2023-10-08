@@ -11,6 +11,13 @@ export const movies = [
 	recommended_by:"@anujdeshpande",
 	notes:"Nice insights about what it takes to build a new kind of technology - in this case the Hercules H-4 flying boat",
     },
+    {
+	name: "The Imitation Game",
+	type: "Biopic",
+	url:"https://en.wikipedia.org/wiki/The_Imitation_Game",
+	recommended_by:"@rituparnamatkar",
+	notes:"",
+    },
 
 ]
 
