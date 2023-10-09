@@ -18,6 +18,20 @@ export const movies = [
 	recommended_by:"@rituparnamatkar",
 	notes:"",
     },
+    {
+	name: "The World's Fastest Indian",
+	type: "Biopic",
+	url:"https://en.wikipedia.org/wiki/The_World's_Fastest_Indian",
+	recommended_by:"@anujdeshpande",
+	notes:"",
+    },
+    {
+	name: "The Boy Who Harnessed the Wind",
+	type: "Biopic",
+	url:"https://en.wikipedia.org/wiki/The_Boy_Who_Harnessed_the_Wind",
+	recommended_by:"@anooljm",
+	notes:"",
+    },
 
 ]
 
