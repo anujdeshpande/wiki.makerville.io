@@ -6,6 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+    markdown: {
+	mermaid: true,
+    },
+    themes: ['@docusaurus/theme-mermaid'],
   title: 'Makerville Wiki',
   tagline: 'Knowledgebase for the the Makerville Community',
   favicon: 'img/favicon.ico',
