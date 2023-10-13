@@ -1,6 +1,8 @@
 ---
-title: Shakti
+title: Makerville Nuclear Battery
 ---
+
+Despite the heavy name, the project aims to build a configurable, customizable battery project - including whatever firwmare is needed.
 
 ## Objectives
 
@@ -36,3 +38,18 @@ title: Shakti
 
 ![Front](./_shakti/front.jpeg)
 ![Back](./_shakti/back.jpeg)
+
+- The above build works as expected. @anujdeshpande used it to charge his phone a couple of times. As advertised the current doesn't go above a 1A using the power boost PCB.
+
+### Mark 2
+
+```mermaid
+  graph TD;
+      WiFi-uC-->Display
+      PowerButton-->WiFi-uC
+      Encoder/joystick-->WiFi-uC
+      WiFi-uC<-->PowerDistributionModule0
+      Cells<-->PowerDistributionModule0
+      PowerDistributionModule0<-->PowerDistributionModule1
+      Cells<-->PowerDistributionModule1
+```
