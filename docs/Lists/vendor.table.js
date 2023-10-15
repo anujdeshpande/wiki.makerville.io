@@ -215,7 +215,34 @@ export const vendors = [
 	url: "https://www.lioncircuits.com/",
 	address: "?",
     },
- 
+	{
+	name: "Silverline Electronics",
+	type: "Raspberry Pi Components",
+	city: "Bangalore",
+	url: "https://www.silverlineelectronics.in/",
+	address: "Silverline Electronics, 139/5, VT Complex, SP Road, Bangalore-560002, 08041124985 (Only For Retail Queries)",
+	},
+	{
+	name: "Robocraze",
+	type: "Components",
+	city: "Bangalore",
+	url: "https://robocraze.com/",
+	address: "Ground Floor, 912/10 Survey no. 104 4th G street, Chelekare, Kalyan Nagar, Bengaluru, Karnataka 560043",
+	},
+	{
+	name: "Tool World",
+	type: "Tools",
+	city: "New Delhi",
+	url: "https://www.toolworld.in/",
+	address: "Shop No.616, Lajpat Rai Market, Chandni Chowk, New Delhi, Delhi, 110006",
+	},
+	{
+	name: "Ktron",
+	type: "SMD Components",
+	city: "Ahmedabad",
+	url: "https://www.ktron.in/",
+	address: "151, Shree Sharan Business Park, Near IOCL Petrol Pump, Panchratna Industrial Estate Part 2, Sarkhej Bavla Road, Changodar, Ahmedabad, Gujarat, India – 382213",
+	},
     // {
     // 	name: "",
     // 	type: "",
