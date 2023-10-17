@@ -52,4 +52,8 @@ Despite the heavy name, the project aims to build a configurable, customizable b
       Cells<-->PowerDistributionModule0
       PowerDistributionModule0<-->PowerDistributionModule1
       Cells<-->PowerDistributionModule1
+			WallAdapter-->WiFi-uC
+			WiFiPowerSwitch-->WallAdapter
+			WiFi-uC<-->HomeAssistant
+			HomeAssistant<-->WiFiPowerSwitch
 ```
