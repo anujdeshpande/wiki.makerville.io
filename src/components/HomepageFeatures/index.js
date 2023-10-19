@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'About the Community Wiki',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
 	<>
 	    Makerville is a community for Indian hardware designers, makers and engineers. This wiki is knowledgebase for the community to share learnings, links, lists, and anything that will benefit their fellow maker.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'How does it work?',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/contribute.svg').default,
     description: (
 	<>
 	    Contributions are made by opening a pull request on GitHub. Just head to any page and click on Edit this page at the bottom to start contributing. <br/>All content is licensed under CC BY-NC-SA 4.0 License.

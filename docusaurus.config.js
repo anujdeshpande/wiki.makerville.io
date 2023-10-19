@@ -73,20 +73,29 @@ const config = {
           alt: 'Makerville Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Get Started',
-          },
-          {to: 'https://blog.makerville.io', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/anujdeshpande/wiki.makerville.io/',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+          items: [
+              {
+		  type: 'docSidebar',
+		  sidebarId: 'tutorialSidebar',
+		  position: 'left',
+		  label: 'Wiki',
+              },
+              {
+		  to: 'https://blog.makerville.io',
+		  label: 'Blog',
+		  position: 'left'
+	      },
+	      {
+		  to: 'http://wiki.makerville.io/docs/Lists/hardware-vendors',
+		  label: 'Vendor List',
+		  position: 'left'
+	      },
+              {
+		  href: 'https://github.com/anujdeshpande/wiki.makerville.io/',
+		  label: 'GitHub',
+		  position: 'right',
+              },
+          ],
       },
       footer: {
         style: 'dark',
@@ -95,8 +104,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Get Started',
+                label: 'Wiki',
                 to: '/docs/intro',
+              },
+		{
+                label: 'Vendors List',
+                to: '/docs/Lists/hardware-vendors',
               },
             ],
           },
