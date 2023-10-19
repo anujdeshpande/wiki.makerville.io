@@ -86,7 +86,7 @@ const config = {
 		  position: 'left'
 	      },
 	      {
-		  to: 'http://wiki.makerville.io/docs/Lists/hardware-vendors',
+		  to: '/docs/Lists/hardware-vendors',
 		  label: 'Vendor List',
 		  position: 'left'
 	      },
