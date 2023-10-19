@@ -215,6 +215,37 @@ export const vendors = [
 	url: "https://www.lioncircuits.com/",
 	address: "?",
     },
+{
+	name: "PCB Kingdom",
+	type: "PCB",
+	city: "Pune",
+	url: "https://pcbkingdom.com/",
+	address: "",
+    },
+	
+{
+	name: "Misumi",
+	type: "Components",
+	city: "Gurgaon",
+	url: "https://in.misumi-ec.com/",
+	address: "Plot no 31, Electronic City, Sector 18, Udyog Vihar - IV, Gurgaon, Haryana – 122016",
+    },
+	
+{
+	name: "Screwwala",
+	type: "Components",
+	city: "Ahmedabad",
+	url: "https://www.screwwala.com/",
+	address: "C-17, Shalimar Complex, Mahalaxmi Five Road,Paldi, Ahmedabad, Gujarat - 380007",
+    },
+{
+	name: "Kamla Hardware Mart",
+	type: "Components",
+	city: "Surat",
+	url: "https://maps.app.goo.gl/fDXe3T5oWGTpYsA9A",
+	address: "4/ 896- 99, PANI NI TANKI Cinema Road, NR.RAJAT HOSPITAL, Station Rd, Zampa Bazaar, Begampura, Surat, Gujarat 395003",
+	notes: "All types of nut bolts , screws,alen key ,hex ,round, ms , steel, customized threading available"
+    },
  
     // {
     // 	name: "",
@@ -254,6 +285,12 @@ export const columns = [
 	accessor: "address",
 	className: "pester-data-table",
     },
+    {
+	Header: "Notes",
+	accessor: "notes",
+	className: "pester-data-table",
+    },
+
     // {
     // 	Header: "Email",
     // 	accessor: "email",
