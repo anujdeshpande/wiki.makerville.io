@@ -32,7 +32,13 @@ export const movies = [
 	recommended_by:"@anooljm",
 	notes:"",
     },
-
+    {
+	name: "Pirates of Silicon Valley",
+	type: "Biopic",
+	url: "https://www.imdb.com/title/tt0168122/",
+	recommended_by: "@daadu",
+	notes: "Origin story of Apple and Microsoft",
+    }
 ]
 
 export const movie_columns = [
