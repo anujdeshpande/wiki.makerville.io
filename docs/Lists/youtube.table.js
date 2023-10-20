@@ -47,6 +47,12 @@ export const youtube = [
 	recommended_by: "@anujdeshpande",
 	notes:"",
     },
+    {
+	name: "The Efficient Engineer",
+	url: "https://www.youtube.com/@TheEfficientEngineer",
+	recommended_by: "@daadu",
+	notes: "Videos on various Mechanical Engineering concepts",
+    }
 ]
 
 export const youtube_columns = [
