@@ -246,6 +246,14 @@ export const vendors = [
 	address: "4/ 896- 99, PANI NI TANKI Cinema Road, NR.RAJAT HOSPITAL, Station Rd, Zampa Bazaar, Begampura, Surat, Gujarat 395003",
 	notes: "All types of nut bolts , screws,alen key ,hex ,round, ms , steel, customized threading available"
     },
+   {
+	name: "Makenica",
+	type: "Manufacturing",
+	city: "Bengaluru",
+	url: "https://makenica.com",
+	address: "57/2 First Floor, 8th Main Rd, 2nd Stage, J.C, Industrial Estate, Bengaluru, Karnataka 560062",
+	notes: "Custom mechanical parts manufacturing at all scale (1 to 1 Million) and stage (proto to production). Services - Various 3D Printing Processes, Vacuum Casting, Injection Moulding, Sheet Metal Fabrication, CNC Machining.",
+    },
  
     // {
     // 	name: "",
