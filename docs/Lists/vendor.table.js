@@ -252,7 +252,7 @@ export const vendors = [
 	city: "Bengaluru",
 	url: "https://makenica.com",
 	address: "57/2 First Floor, 8th Main Rd, 2nd Stage, J.C, Industrial Estate, Bengaluru, Karnataka 560062",
-	notes: "Custom mechanical parts manufacturing at all scale (1 to 1 Million) and stage (proto to production). Services - Various 3D Printing Processes, Vacuum Casting, Injection Moulding, Sheet Metal Fabrication, CNC Machining.",
+	notes: "Custom parts manufacturing - Various 3D Printing, Vacuum Casting, Injection Moulding, Sheet Metal, CNC Machining.",
     },
  
     // {
