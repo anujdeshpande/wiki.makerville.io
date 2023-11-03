@@ -255,6 +255,30 @@ export const vendors = [
 	notes: "Custom parts manufacturing - Various 3D Printing, Vacuum Casting, Injection Moulding, Sheet Metal, CNC Machining.",
     },
  
+    {
+    	name: "Case and Foam",
+    	type: "Components",
+    	city: "Bengaluru",
+    	url: "https://caseandfoam.in/",
+    	address: "63/7, Nagadevi Industrial Estate, Kacharakanahalli, Opp.Kacharakanahalli BBMP Office,Bengaluru 560 084",
+	notes: "Protective hard carry cases"
+    },
+    {
+    	name: "Pinnacle Cases",
+    	type: "Components",
+    	city: "Mumbai",
+    	url: "https://www.pinnaclecases.com/",
+    	address: "FF1 Zakaria Industrial Estate, Marol Maroshi Road,Andheri East,MUMBAI 400059",
+	notes: "Custom flightcases"
+    },
+   {
+    	name: "Scope Cases",
+    	type: "Components",
+    	city: "Pune",
+    	url: "https://www.scopecases.com/",
+    	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
+	notes: "Enclosure Cases, Molded Cases, Instrument Cases, Flight Cases, LCD TV Case, Soft Carry Cases, Trolley Case, Electronics Training Kit, Transport Cases, Pistol Case, etc"
+    },
     // {
     // 	name: "",
     // 	type: "",
