@@ -279,6 +279,15 @@ export const vendors = [
     	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
 	notes: "Enclosure Cases, Molded Cases, Instrument Cases, Flight Cases, LCD TV Case, Soft Carry Cases, Trolley Case, Electronics Training Kit, Transport Cases, Pistol Case, etc"
     },
+	
+   {
+    	name: "Phoenix Mecano",
+    	type: "Components",
+    	city: "Pune",
+    	url: "https://www.phoenixmecano.co.in",
+    	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
+notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
+    },
     // {
     // 	name: "",
     // 	type: "",
