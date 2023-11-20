@@ -47,7 +47,7 @@ export const movie_columns = [
 	accessor: "name",
 	className: "pester-data-table left",
 	Cell: ({ cell: { value }, row: { original } }) => (
-		<a href={`${original.url}`} target="blank" rel="noreferrer noopener">
+		<a style={{textDecorationLine: 'underline'}} href={`${original.url}`} target="blank" rel="noreferrer noopener">
 		{value}
 	    </a>
 	),
