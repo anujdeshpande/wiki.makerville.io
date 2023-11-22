@@ -279,7 +279,13 @@ export const vendors = [
     	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
 	notes: "Enclosure Cases, Molded Cases, Instrument Cases, Flight Cases, LCD TV Case, Soft Carry Cases, Trolley Case, Electronics Training Kit, Transport Cases, Pistol Case, etc"
     },
-	
+   {
+	name: "RioSH Technologies",
+	type: "Components Sourcing, PCB Fabrication and PCB Assembly",
+	city: "Bangalore",
+	url: "https://www.rioshtech.com",
+	address: "243, 3rd cross Celebrity Layout, Doddathogur, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100",
+    },
    {
     	name: "Phoenix Mecano",
     	type: "Components",
