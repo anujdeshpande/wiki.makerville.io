@@ -216,11 +216,12 @@ export const vendors = [
 	address: "?",
     },
 {
-	name: "PCB Kingdom",
+	name: "PCBKingdom",
 	type: "PCB",
 	city: "Pune",
 	url: "https://pcbkingdom.com/",
-	address: "",
+	address: "605, Gandharva Galaxia, Amanora Park Town Main Rd, PUNE 411013, INDIA",
+	notes: "Turnkey Automated EMS (Component procurement, PCB Manufacturing and Assembly), production management (inventory, warranty repairs)"
     },
 	
 {
