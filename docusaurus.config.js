@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/anujdeshpande/wiki.makerville.io/tree/master/',
+            'https://github.dev/anujdeshpande/wiki.makerville.io/tree/master/',
         },
         blog: {
           showReadingTime: true,
