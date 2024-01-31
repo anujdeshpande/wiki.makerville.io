@@ -4,6 +4,13 @@ import React from "react";
 // Please respect chronological (date) order when adding new entries.
 // ----------------------------------------------------------------------------
 export const vendors = [
+	{
+		name: "Comkey",
+		city: "Bengaluru",
+		type: "Components",
+		url: "https://www.comkey.in/",
+		address:"675, Srikrishna Prowess, 4th Floor, 14th Cross, 8th Main, 2nd Phase, J. P. Nagar, Bangalore 560078",
+	},
     {
 	name: "Visha World",
 	type: "Components",
