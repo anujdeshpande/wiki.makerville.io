@@ -18,6 +18,14 @@ export const vendors = [
 	url: "http://www.vishaworld.com",
 	address: "357 Lamington Road,Ganesh Bhavan, 1st Floor,Opp. Lamington Road Police StationMumbai – 400007",
     },
+	{
+		name:"Teqzo",
+		url: "https://consulting.teqzo.com/",
+		city: "Bengaluru",
+		type:"Industrial Design",
+		address:"No.81, Ashwath Nagar, Thanisandra Main Road, Bangalore 560077."
+
+	},
     {
 	name: "MG Super Labs",
 	type: "Components",
@@ -256,7 +264,7 @@ export const vendors = [
     },
    {
 	name: "Makenica",
-	type: "Manufacturing",
+	type: "Industrial Design, Manufacturing",
 	city: "Bengaluru",
 	url: "https://makenica.com",
 	address: "57/2 First Floor, 8th Main Rd, 2nd Stage, J.C, Industrial Estate, Bengaluru, Karnataka 560062",
