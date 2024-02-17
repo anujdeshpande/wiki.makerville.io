@@ -11,6 +11,14 @@ export const vendors = [
 		url: "https://www.comkey.in/",
 		address:"675, Srikrishna Prowess, 4th Floor, 14th Cross, 8th Main, 2nd Phase, J. P. Nagar, Bangalore 560078",
 	},
+	{
+		name: "3DPrintronics",
+		city: "Greater Noida",
+		address:"J-11 Kasna Industrial area,Surajpur Site V, Greater Noida - 201310",
+		url:"https://3dprintronics.com",
+		type:"Components",
+		notes:"Manufactures Prusa Bear series 3D printers, desktop CNC routers,aluminium extrusions and linear actuators",
+	},
     {
 	name: "Visha World",
 	type: "Components",
