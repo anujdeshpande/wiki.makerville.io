@@ -312,6 +312,14 @@ export const vendors = [
     	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
 notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     },
+	{
+    	name: "Hatchnhack",
+    	type: "Components",
+    	city: "Delhi",
+    	url: "https://www.hnhcart.com",
+    	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
+		notes: "Electronic Components, EMS, etc."
+    }
     // {
     // 	name: "",
     // 	type: "",
