@@ -4,21 +4,21 @@ import React from "react";
 // Please respect chronological (date) order when adding new entries.
 // ----------------------------------------------------------------------------
 export const vendors = [
-	{
-		name: "Comkey",
-		city: "Bengaluru",
-		type: "Components",
-		url: "https://www.comkey.in/",
-		address:"675, Srikrishna Prowess, 4th Floor, 14th Cross, 8th Main, 2nd Phase, J. P. Nagar, Bangalore 560078",
-	},
-	{
-		name: "3DPrintronics",
-		city: "Greater Noida",
-		address:"J-11 Kasna Industrial area,Surajpur Site V, Greater Noida - 201310",
-		url:"https://3dprintronics.com",
-		type:"Components",
-		notes:"Manufactures Prusa Bear series 3D printers, desktop CNC routers,aluminium extrusions and linear actuators",
-	},
+    {
+	name: "Comkey",
+	city: "Bengaluru",
+	type: "Components",
+	url: "https://www.comkey.in/",
+	address:"675, Srikrishna Prowess, 4th Floor, 14th Cross, 8th Main, 2nd Phase, J. P. Nagar, Bangalore 560078",
+    },
+    {
+	name: "3DPrintronics",
+	city: "Greater Noida",
+	address:"J-11 Kasna Industrial area,Surajpur Site V, Greater Noida - 201310",
+	url:"https://3dprintronics.com",
+	type:"Components",
+	notes:"Manufactures Prusa Bear series 3D printers, desktop CNC routers,aluminium extrusions and linear actuators",
+    },
     {
 	name: "Visha World",
 	type: "Components",
@@ -26,14 +26,14 @@ export const vendors = [
 	url: "http://www.vishaworld.com",
 	address: "357 Lamington Road,Ganesh Bhavan, 1st Floor,Opp. Lamington Road Police StationMumbai – 400007",
     },
-	{
-		name:"Teqzo",
-		url: "https://consulting.teqzo.com/",
-		city: "Bengaluru",
-		type:"Industrial Design",
-		address:"No.81, Ashwath Nagar, Thanisandra Main Road, Bangalore 560077."
+    {
+	name:"Teqzo",
+	url: "https://consulting.teqzo.com/",
+	city: "Bengaluru",
+	type:"Industrial Design",
+	address:"No.81, Ashwath Nagar, Thanisandra Main Road, Bangalore 560077."
 
-	},
+    },
     {
 	name: "MG Super Labs",
 	type: "Components",
@@ -238,7 +238,7 @@ export const vendors = [
 	url: "https://www.lioncircuits.com/",
 	address: "?",
     },
-{
+    {
 	name: "PCBKingdom",
 	type: "PCB",
 	city: "Pune",
@@ -246,23 +246,23 @@ export const vendors = [
 	address: "605, Gandharva Galaxia, Amanora Park Town Main Rd, PUNE 411013, INDIA",
 	notes: "Turnkey Automated EMS (Component procurement, PCB Manufacturing and Assembly), production management (inventory, warranty repairs)"
     },
-	
-{
+    
+    {
 	name: "Misumi",
 	type: "Components",
 	city: "Gurgaon",
 	url: "https://in.misumi-ec.com/",
 	address: "Plot no 31, Electronic City, Sector 18, Udyog Vihar - IV, Gurgaon, Haryana – 122016",
     },
-	
-{
+    
+    {
 	name: "Screwwala",
 	type: "Components",
 	city: "Ahmedabad",
 	url: "https://www.screwwala.com/",
 	address: "C-17, Shalimar Complex, Mahalaxmi Five Road,Paldi, Ahmedabad, Gujarat - 380007",
     },
-{
+    {
 	name: "Kamla Hardware Mart",
 	type: "Components",
 	city: "Surat",
@@ -270,7 +270,7 @@ export const vendors = [
 	address: "4/ 896- 99, PANI NI TANKI Cinema Road, NR.RAJAT HOSPITAL, Station Rd, Zampa Bazaar, Begampura, Surat, Gujarat 395003",
 	notes: "All types of nut bolts , screws,alen key ,hex ,round, ms , steel, customized threading available"
     },
-   {
+    {
 	name: "Makenica",
 	type: "Industrial Design, Manufacturing",
 	city: "Bengaluru",
@@ -278,7 +278,7 @@ export const vendors = [
 	address: "57/2 First Floor, 8th Main Rd, 2nd Stage, J.C, Industrial Estate, Bengaluru, Karnataka 560062",
 	notes: "Custom parts manufacturing - Various 3D Printing, Vacuum Casting, Injection Moulding, Sheet Metal, CNC Machining.",
     },
- 
+    
     {
     	name: "Case and Foam",
     	type: "Components",
@@ -295,48 +295,46 @@ export const vendors = [
     	address: "FF1 Zakaria Industrial Estate, Marol Maroshi Road,Andheri East,MUMBAI 400059",
 	notes: "Custom flightcases"
     },
-   {
+    {
     	name: "Scope Cases",
     	type: "Components",
     	city: "Pune",
     	url: "https://www.scopecases.com/",
     	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
 	notes: "Enclosure Cases, Molded Cases, Instrument Cases, Flight Cases, LCD TV Case, Soft Carry Cases, Trolley Case, Electronics Training Kit, Transport Cases, Pistol Case, etc"
-    },
-	
-   {
+    },    
+    {
     	name: "Phoenix Mecano",
     	type: "Components",
     	city: "Pune",
     	url: "https://www.phoenixmecano.co.in",
     	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
-notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
+	notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     },
-	{
+    {
     	name: "Hatchnhack",
     	type: "Components",
     	city: "Delhi",
     	url: "https://www.hnhcart.com",
     	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
-		notes: "Electronic Components, EMS, etc."
-	},
-    	{
-    	    name: "PCB Power",
-    	    type: "PCB",
-    	    city: "Gandhinagar",
-    	    url: "https://www.pcbpower.com/",
-    	    address: "B-24, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382044",
-	    notes: "Turnkey EMS with No Minimum Order Quantity (PCB Manufacturing, Component Procurement, and PCB Assembly), Schematic Capture, PCB Stencil Fabrication"
-	},
+	notes: "Electronic Components, EMS, etc."
+    },
+    {
+    	name: "PCB Power",
+    	type: "PCB",
+    	city: "Gandhinagar",
+    	url: "https://www.pcbpower.com/",
+    	address: "B-24, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382044",
+	notes: "Turnkey EMS with No Minimum Order Quantity (PCB Manufacturing, Component Procurement, and PCB Assembly), Schematic Capture, PCB Stencil Fabrication"
+    },
     {
     	name: "Mech Power",
     	type: "Components",
     	city: "Ahmedabad",
-    	url: "https://www.hnhcart.com",
+    	url: "https://www.mechpowertech.com/",
     	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
-	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),
-Injection Moulding, Sheet Metal Fabrication, CNC Machining"
-	}
+	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),Injection Moulding, Sheet Metal Fabrication, CNC Machining"
+    }
 
     // {
     // 	name: "",
@@ -356,7 +354,7 @@ export const columns = [
 	accessor: "name",
 	className: "pester-data-table left",
 	Cell: ({ cell: { value }, row: { original } }) => (
-		<a style={{textDecorationLine: 'underline'}} href={`${original.url}`} target="blank" rel="noreferrer noopener">
+	    <a style={{textDecorationLine: 'underline'}} href={`${original.url}`} target="blank" rel="noreferrer noopener">
 		{value}
 	    </a>
 	),
@@ -365,7 +363,7 @@ export const columns = [
 	Header: "Type",
 	accessor: "type",
 	className: "pester-data-table left",
-  },
+    },
     {
 	Header: "City",
 	accessor: "city",
