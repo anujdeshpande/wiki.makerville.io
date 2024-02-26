@@ -53,7 +53,7 @@ export const vendors = [
 	type: "Components",
 	city: "Bengaluru",
 	url: "https://crazypi.com/",
-	address: " No.36 & 37, SML Lavender Apartments, Flat No.102, 3rd Cross, Nrupathunga Nagar, 7th Phase, JP Nagar, Bengaluru - 560078 KARNATAKA, INDIA"	
+	address: " No.36 & 37, SML Lavender Apartments, Flat No.102, 3rd Cross, Nrupathunga Nagar, 7th Phase, JP Nagar, Bengaluru - 560078 KARNATAKA, INDIA"
     },
     {
 	name: "Sunrom",
@@ -246,7 +246,7 @@ export const vendors = [
 	address: "605, Gandharva Galaxia, Amanora Park Town Main Rd, PUNE 411013, INDIA",
 	notes: "Turnkey Automated EMS (Component procurement, PCB Manufacturing and Assembly), production management (inventory, warranty repairs)"
     },
-    
+
     {
 	name: "Misumi",
 	type: "Components",
@@ -254,7 +254,7 @@ export const vendors = [
 	url: "https://in.misumi-ec.com/",
 	address: "Plot no 31, Electronic City, Sector 18, Udyog Vihar - IV, Gurgaon, Haryana – 122016",
     },
-    
+
     {
 	name: "Screwwala",
 	type: "Components",
@@ -278,70 +278,70 @@ export const vendors = [
 	address: "57/2 First Floor, 8th Main Rd, 2nd Stage, J.C, Industrial Estate, Bengaluru, Karnataka 560062",
 	notes: "Custom parts manufacturing - Various 3D Printing, Vacuum Casting, Injection Moulding, Sheet Metal, CNC Machining.",
     },
-    
+
     {
-    	name: "Case and Foam",
-    	type: "Components",
-    	city: "Bengaluru",
-    	url: "https://caseandfoam.in/",
-    	address: "63/7, Nagadevi Industrial Estate, Kacharakanahalli, Opp.Kacharakanahalli BBMP Office,Bengaluru 560 084",
+	name: "Case and Foam",
+	type: "Components",
+	city: "Bengaluru",
+	url: "https://caseandfoam.in/",
+	address: "63/7, Nagadevi Industrial Estate, Kacharakanahalli, Opp.Kacharakanahalli BBMP Office,Bengaluru 560 084",
 	notes: "Protective hard carry cases"
     },
     {
-    	name: "Pinnacle Cases",
-    	type: "Components",
-    	city: "Mumbai",
-    	url: "https://www.pinnaclecases.com/",
-    	address: "FF1 Zakaria Industrial Estate, Marol Maroshi Road,Andheri East,MUMBAI 400059",
+	name: "Pinnacle Cases",
+	type: "Components",
+	city: "Mumbai",
+	url: "https://www.pinnaclecases.com/",
+	address: "FF1 Zakaria Industrial Estate, Marol Maroshi Road,Andheri East,MUMBAI 400059",
 	notes: "Custom flightcases"
     },
     {
-    	name: "Scope Cases",
-    	type: "Components",
-    	city: "Pune",
-    	url: "https://www.scopecases.com/",
-    	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
+	name: "Scope Cases",
+	type: "Components",
+	city: "Pune",
+	url: "https://www.scopecases.com/",
+	address: "Srv. No. 77/4, Shed No. 3, Vishnu Malti Industrial Estate, NDA Road, Shivane, Pune 23",
 	notes: "Enclosure Cases, Molded Cases, Instrument Cases, Flight Cases, LCD TV Case, Soft Carry Cases, Trolley Case, Electronics Training Kit, Transport Cases, Pistol Case, etc"
-    },    
+    },
     {
-    	name: "Phoenix Mecano",
-    	type: "Components",
-    	city: "Pune",
-    	url: "https://www.phoenixmecano.co.in",
-    	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
+	name: "Phoenix Mecano",
+	type: "Components",
+	city: "Pune",
+	url: "https://www.phoenixmecano.co.in",
+	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
 	notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     },
     {
-    	name: "Hatchnhack",
-    	type: "Components",
-    	city: "Delhi",
-    	url: "https://www.hnhcart.com",
-    	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
+	name: "Hatchnhack",
+	type: "Components",
+	city: "Delhi",
+	url: "https://www.hnhcart.com",
+	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
 	notes: "Electronic Components, EMS, etc."
     },
     {
-    	name: "PCB Power",
-    	type: "PCB",
-    	city: "Gandhinagar",
-    	url: "https://www.pcbpower.com/",
-    	address: "B-24, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382044",
+	name: "PCB Power",
+	type: "PCB",
+	city: "Gandhinagar",
+	url: "https://www.pcbpower.com/",
+	address: "B-24, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382044",
 	notes: "Turnkey EMS with No Minimum Order Quantity (PCB Manufacturing, Component Procurement, and PCB Assembly), Schematic Capture, PCB Stencil Fabrication"
     },
     {
-    	name: "Mech Power",
-    	type: "Components",
-    	city: "Ahmedabad",
-    	url: "https://www.mechpowertech.com/",
-    	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
+	name: "Mech Power",
+	type: "Components",
+	city: "Ahmedabad",
+	url: "https://www.mechpowertech.com/",
+	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
 	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),Injection Moulding, Sheet Metal Fabrication, CNC Machining"
     }
 
     // {
-    // 	name: "",
-    // 	type: "",
-    // 	city: "",
-    // 	url: "",
-    // 	address: "",
+    //	name: "",
+    //	type: "",
+    //	city: "",
+    //	url: "",
+    //	address: "",
     // },
 ];
 
@@ -381,8 +381,8 @@ export const columns = [
     },
 
     // {
-    // 	Header: "Email",
-    // 	accessor: "email",
-    // 	className: "pester-data-table"
+    //	Header: "Email",
+    //	accessor: "email",
+    //	className: "pester-data-table"
     // },
 ];
