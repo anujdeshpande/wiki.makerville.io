@@ -319,7 +319,25 @@ notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     	url: "https://www.hnhcart.com",
     	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
 		notes: "Electronic Components, EMS, etc."
-    }
+	},
+    	{
+    	    name: "PCB Power",
+    	    type: "PCB",
+    	    city: "Gandhinagar",
+    	    url: "https://www.pcbpower.com/",
+    	    address: "B-24, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382044",
+	    notes: "Turnkey EMS with No Minimum Order Quantity (PCB Manufacturing, Component Procurement, and PCB Assembly), Schematic Capture, PCB Stencil Fabrication"
+	},
+    {
+    	name: "Mech Power",
+    	type: "Components",
+    	city: "Ahmedabad",
+    	url: "https://www.hnhcart.com",
+    	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
+	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),
+Injection Moulding, Sheet Metal Fabrication, CNC Machining"
+	}
+
     // {
     // 	name: "",
     // 	type: "",
