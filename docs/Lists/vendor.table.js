@@ -334,8 +334,14 @@ export const vendors = [
 	url: "https://www.mechpowertech.com/",
 	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
 	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),Injection Moulding, Sheet Metal Fabrication, CNC Machining"
-    }
-
+    },
+    {
+	name: "ElectronicsComp",
+	type: "Components",
+	city: "Bengaluru",
+	url: "https://www.electronicscomp.com/",
+	address: "Constflick Technologies Limited, Building No. 54, 5th Floor, SVP Arcade A Block, Lalbagh Main Road, Next to Passport Office Sudhama Nagar, Bangalore, Karnataka - 560027 India.",
+    },
     // {
     //	name: "",
     //	type: "",
