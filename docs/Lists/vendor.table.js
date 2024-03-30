@@ -338,7 +338,7 @@ export const vendors = [
     {
 	name: "ElectronicsComp",
 	type: "Components",
-	city: "Bangalore",
+	city: "Bengaluru",
 	url: "https://www.electronicscomp.com/",
 	address: "Constflick Technologies Limited, Building No. 54, 5th Floor, SVP Arcade A Block, Lalbagh Main Road, Next to Passport Office Sudhama Nagar, Bangalore, Karnataka - 560027 India.",
     },
