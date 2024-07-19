@@ -13,32 +13,68 @@ export const movies = [
     },
     {
 	name: "The Imitation Game",
-	type: "Biopic",
 	url:"https://en.wikipedia.org/wiki/The_Imitation_Game",
 	recommended_by:"@rituparnamatkar",
 	notes:"",
     },
     {
 	name: "The World's Fastest Indian",
-	type: "Biopic",
 	url:"https://en.wikipedia.org/wiki/The_World's_Fastest_Indian",
 	recommended_by:"@anujdeshpande",
 	notes:"",
     },
     {
 	name: "The Boy Who Harnessed the Wind",
-	type: "Biopic",
 	url:"https://en.wikipedia.org/wiki/The_Boy_Who_Harnessed_the_Wind",
 	recommended_by:"@anooljm",
 	notes:"",
     },
     {
 	name: "Pirates of Silicon Valley",
-	type: "Biopic",
 	url: "https://www.imdb.com/title/tt0168122/",
 	recommended_by: "@daadu",
 	notes: "Origin story of Apple and Microsoft",
-    }
+    },
+	{
+		name:"Ford v Ferrari",
+		url: "https://en.wikipedia.org/wiki/Ford_v_Ferrari",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "Apollo 13",
+		url: "https://en.wikipedia.org/wiki/Apollo_13",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "The Martian",
+		url: "https://en.wikipedia.org/wiki/The_Martian_(film)",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "Oppenheimer",
+		url:"https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "October Sky",
+		url: "https://en.wikipedia.org/wiki/October_Sky",
+		recommended_by : "@anujdeshpande"
+	},
+	{
+		name: "Moneyball",
+		url:"https://en.wikipedia.org/wiki/Moneyball_(film)",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "Tucker",
+		url: "https://en.wikipedia.org/wiki/Tucker:_The_Man_and_His_Dream",
+		recommended_by: "@anujdeshpande"
+	},
+	{
+		name: "The Right Stuff",
+		url: "https://en.wikipedia.org/wiki/The_Right_Stuff_(film)",
+		recommended_by: "@anujdeshpande"
+	}
 ]
 
 export const movie_columns = [
@@ -52,11 +88,6 @@ export const movie_columns = [
 	    </a>
 	),
     },
-    {
-	Header: "Type",
-	accessor: "type",
-	className: "pester-data-table left",
-  },
     {
 	Header: "Recommended By",
 	accessor: "recommended_by",
