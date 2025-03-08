@@ -147,7 +147,7 @@ const config = {
             ],
           },
         ],
-	  copyright: `Makerville Wiki © 2023 is licensed under CC BY-NC-SA 4.0`
+	  copyright: `Makerville © 2025 is licensed under CC BY-NC-SA 4.0`
       },
       prism: {
         theme: lightTheme,
