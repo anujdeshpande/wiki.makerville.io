@@ -343,11 +343,18 @@ export const vendors = [
 	address: "Constflick Technologies Limited, Building No. 54, 5th Floor, SVP Arcade A Block, Lalbagh Main Road, Next to Passport Office Sudhama Nagar, Bangalore, Karnataka - 560027 India.",
     },
 	{
-    	name: "Akinfo Tools Pvt. Ltd.",
-    	type: "Components",
-    	city: "Delhi",
-    	url: "https://akinfotools.com",
-    	address: "3rd & 4th Floor, 12A/31 JPS Bluiding Beside Bank Of India, Near Persona, Saraswati Marg Karol Bagh, New Delhi - 110005",
+	name: "Akinfo Tools Pvt. Ltd.",
+	type: "Components",
+	city: "Delhi",
+	url: "https://akinfotools.com",
+	address: "3rd & 4th Floor, 12A/31 JPS Bluiding Beside Bank Of India, Near Persona, Saraswati Marg Karol Bagh, New Delhi - 110005",
+    },
+    {
+	name: "Hubtronics",
+	type: "Components",
+	city: "Pune",
+	url: "https://hubtronics.in",
+	address: "1st Floor, Punyodaya Building, Opp. Copacabana Restaurent, Above Poona Bakery, Vishal Nagar, Pimple Nilkah, Pune - 411027",
     },
     // {
     //	name: "",
