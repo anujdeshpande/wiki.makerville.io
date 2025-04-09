@@ -356,6 +356,13 @@ export const vendors = [
 	url: "https://hubtronics.in",
 	address: "1st Floor, Punyodaya Building, Opp. Copacabana Restaurent, Above Poona Bakery, Vishal Nagar, Pimple Nilkah, Pune - 411027",
     },
+	{
+		name: "Xcluma",
+		type: "Components",
+		city: "Bengaluru",
+		url: "https://www.xcluma.com/",
+		address: ""
+	}
     // {
     //	name: "",
     //	type: "",
