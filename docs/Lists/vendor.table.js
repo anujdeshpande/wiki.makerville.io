@@ -362,6 +362,13 @@ export const vendors = [
 		city: "Bengaluru",
 		url: "https://www.xcluma.com/",
 		address: ""
+	},
+	{
+		name: "Eteily",
+		type: "Components",
+		city: "Bhopal",
+		url:"https://eteily.com/",
+		address:""
 	}
     // {
     //	name: "",
