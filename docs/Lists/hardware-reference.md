@@ -32,4 +32,5 @@ CM4 reference boards
 - [Retro-Lite-CM4](https://github.com/StonedEdge/Retro-Lite-CM4) - Great project with a finished product.
 - [QWAVE_Raspberry-Pi-CM4-Altium-Library](https://github.com/QWaveSystems/QWAVE_Raspberry-Pi-CM4-Altium-Library) for designing CM4 based carrier boards in Altium
 
+- [Dabao by Bao Chip](https://www.crowdsupply.com/baochip/dabao) - thinking of backing this project by Bunnie
 Studying these design will for sure help you to become more better at design
