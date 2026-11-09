@@ -6,7 +6,7 @@ import React from "react";
 export const youtube = [
     {
 	name: "Makerville",
-	url:"https://www.youtube.com/@makerville)",
+	url:"https://www.youtube.com/@makerville",
 	recommended_by:"@anujdeshpande",
 	notes:"",
     },
