@@ -412,14 +412,6 @@ export const vendors = [
 	notes: "Cables, connectors, cable glands, conduits and markers",
     },
     {
-	name: "Pomona Electronics",
-	city: "",
-	type: "Test Equipment",
-	url: "https://www.pomonaelectronics.com/",
-	address: "",
-	notes: "Premium test leads, probes and measurement accessories (US manufacturer)",
-    },
-    {
 	name: "Punoscho",
 	city: "",
 	type: "Components",
