@@ -21,6 +21,12 @@ export const webapps = [
 	url:"https://app.haikei.app/",
 	type:"Generative",
 	notes: "Generate unique SVG design assets"
+    },
+    {
+	name: "Antennenrechner (boscolab)",
+	url: "https://antennenrechner.boscolab.de/",
+	type: "Calculator",
+	notes: "Web-based antenna calculator.",
     }
 ];
 
