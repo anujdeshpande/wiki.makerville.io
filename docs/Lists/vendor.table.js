@@ -53,7 +53,7 @@ export const vendors = [
 	type: "Components",
 	city: "Bengaluru",
 	url: "https://crazypi.com/",
-	address: " No.36 & 37, SML Lavender Apartments, Flat No.102, 3rd Cross, Nrupathunga Nagar, 7th Phase, JP Nagar, Bengaluru - 560078 KARNATAKA, INDIA"
+	address: "No.36 & 37, SML Lavender Apartments, Flat No.102, 3rd Cross, Nrupathunga Nagar, 7th Phase, JP Nagar, Bengaluru - 560078 KARNATAKA, INDIA"
     },
     {
 	name: "Sunrom",
@@ -197,13 +197,6 @@ export const vendors = [
 	address: "582/3, Chandra Chaya Residency, Anand Colony, Baldeobagh, Jabalpur 482002",
     },
     {
-	name: "3DPrintronics",
-	type: "Components",
-	city: "Noida",
-	url: "https://www.3dprintronics.com/",
-	address: "J-11, Kasna Industrial Area, Surajpur Site V,  Greater Noida, UP - 201310",
-    },
-    {
 	name: "Campus Component",
 	type: "Components",
 	city: "Pune",
@@ -308,7 +301,7 @@ export const vendors = [
 	type: "Components",
 	city: "Pune",
 	url: "https://www.phoenixmecano.co.in",
-	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506 ",
+	address: "408 Urse, Taluka Maval, Talegaon Urse road,Pune – 410506",
 	notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     },
     {
@@ -332,7 +325,7 @@ export const vendors = [
 	type: "Components",
 	city: "Ahmedabad",
 	url: "https://www.mechpowertech.com/",
-	address: " Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
+	address: "Plot no.407, Nr. Ram Multispeciality Hospital, Sarkhej-Bavla Highway, Moraiya, Changodar, Ahmedabad, Gujarat 382213",
 	notes: "Electronic Enclosure Manufacturer (Plastic & Metal). Enclosure Design, 3D Printing(FDM & Projection printing),Injection Moulding, Sheet Metal Fabrication, CNC Machining"
     },
     {
@@ -397,7 +390,7 @@ export const vendors = [
     {
 	name: "Darshana Industries",
 	city: "",
-	type: "Industrial hardware",
+	type: "Industrial Hardware",
 	url: "https://www.darshanaindustries.com/",
 	address: "",
 	notes: "Control panel components and machine elements",
@@ -405,7 +398,7 @@ export const vendors = [
     {
 	name: "DIRAK India",
 	city: "",
-	type: "Industrial hardware",
+	type: "Industrial Hardware",
 	url: "https://dirak.co.in/",
 	address: "",
 	notes: "Latches, hinges and panel fittings for enclosures",
@@ -421,7 +414,7 @@ export const vendors = [
     {
 	name: "Pomona Electronics",
 	city: "",
-	type: "Test equipment",
+	type: "Test Equipment",
 	url: "https://www.pomonaelectronics.com/",
 	address: "",
 	notes: "Premium test leads, probes and measurement accessories (US manufacturer)",
