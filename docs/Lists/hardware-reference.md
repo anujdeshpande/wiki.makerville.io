@@ -33,4 +33,5 @@ CM4 reference boards
 - [QWAVE_Raspberry-Pi-CM4-Altium-Library](https://github.com/QWaveSystems/QWAVE_Raspberry-Pi-CM4-Altium-Library) for designing CM4 based carrier boards in Altium
 
 - [Dabao by Bao Chip](https://www.crowdsupply.com/baochip/dabao) - thinking of backing this project by Bunnie
+- [List of robot electronics](https://github.com/samuk/list_of_robot_electronics) - Curated list of open source electronics resources for robotics
 Studying these design will for sure help you to become more better at design
